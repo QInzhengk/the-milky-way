@@ -1,0 +1,89 @@
+/* 自定义样式 */
+:root {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #2563eb;
+  --vp-c-brand-3: #1d4ed8;
+  --vp-home-hero-name-color: #3b82f6;
+  --vp-home-hero-name-background: linear-gradient(120deg, #3b82f6 30%, #8b5cf6);
+}
+
+/* 首页英雄区域样式 */
+.VPHero .name {
+  background: linear-gradient(120deg, #3b82f6 30%, #8b5cf6);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 代码块样式 */
+.vp-code {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* 提示框样式 */
+.custom-block.tip {
+  border-left: 4px solid #3b82f6;
+  background-color: #f0f9ff;
+}
+
+.custom-block.warning {
+  border-left: 4px solid #f59e0b;
+  background-color: #fffbeb;
+}
+
+.custom-block.danger {
+  border-left: 4px solid #ef4444;
+  background-color: #fef2f2;
+}
+
+/* 导航菜单悬停效果 */
+.VPNavBarMenuLink:hover {
+  color: var(--vp-c-brand-1);
+}
+
+/* 侧边栏样式 */
+.VPSidebar {
+  border-right: 1px solid #e5e7eb;
+}
+
+/* 文档内容样式 */
+.vp-doc h1 {
+  border-bottom: 2px solid #e5e7eb;
+  padding-bottom: 0.5rem;
+}
+
+.vp-doc h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #f3f4f6;
+  padding-bottom: 0.5rem;
+}
+
+/* 表格样式 */
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.vp-doc th {
+  background-color: #f9fafb;
+  font-weight: 600;
+}
+
+.vp-doc td, .vp-doc th {
+  border: 1px solid #e5e7eb;
+  padding: 0.75rem;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .VPHero .text {
+    font-size: 2.5rem;
+  }
+  
+  .VPHero .tagline {
+    font-size: 1.1rem;
+  }
+}
