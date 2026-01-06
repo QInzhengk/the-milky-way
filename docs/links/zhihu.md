@@ -14,9 +14,9 @@
 - 建模思维培养方法
 
 **热门回答：**
-- [如何从零开始学习数学建模？](https://zhihu.com/question/xxx/answer/xxx)
-- [数学建模竞赛中有哪些常用的建模技巧？](https://zhihu.com/question/xxx/answer/xxx)
-- [如何提高数学建模论文的写作水平？](https://zhihu.com/question/xxx/answer/xxx)
+- [如何从零开始学习数学建模？](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [数学建模竞赛中有哪些常用的建模技巧？](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [如何提高数学建模论文的写作水平？](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
 
 #### 2. 《数学之美》
 **作者：** 应用数学博士
@@ -40,9 +40,9 @@
 - 前沿技术动态解读
 
 **热门回答：**
-- [深度学习入门应该从哪里开始？](https://zhihu.com/question/xxx/answer/xxx)
-- [Transformer模型的理解和应用](https://zhihu.com/question/xxx/answer/xxx)
-- [如何进行有效的深度学习模型调优？](https://zhihu.com/question/xxx/answer/xxx)
+- [深度学习入门应该从哪里开始？](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [Transformer模型的理解和应用](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [如何进行有效的深度学习模型调优？](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
 
 #### 2. 《机器学习数学基础》
 **作者：** 机器学习研究员
@@ -66,9 +66,9 @@
 - 编程思维训练
 
 **热门回答：**
-- [如何系统地学习算法和数据结构？](https://zhihu.com/question/xxx/answer/xxx)
-- [动态规划问题的解题思路](https://zhihu.com/question/xxx/answer/xxx)
-- [数据结构与算法在工程中的应用](https://zhihu.com/question/xxx/answer/xxx)
+- [如何系统地学习算法和数据结构？](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [动态规划问题的解题思路](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [数据结构与算法在工程中的应用](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
 
 #### 2. 《Python高级编程》
 **作者：** Python技术专家
@@ -103,9 +103,9 @@
    - 常用数学建模软件对比推荐？
 
 #### 高赞回答精选
-- [《数学建模》作者谈如何学好数学建模](https://zhihu.com/question/xxx/answer/xxx)
-- [国赛获奖选手的备赛经验分享](https://zhihu.com/question/xxx/answer/xxx)
-- [数学建模在各行业的实际应用案例](https://zhihu.com/question/xxx/answer/xxx)
+- [《数学建模》作者谈如何学好数学建模](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [国赛获奖选手的备赛经验分享](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [数学建模在各行业的实际应用案例](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
 
 ### 人工智能话题
 
@@ -126,9 +126,9 @@
    - NLP技术在企业中的应用场景？
 
 #### 高赞回答精选
-- [AI大牛谈人工智能发展的现状与未来](https://zhihu.com/question/xxx/answer/xxx)
-- [从零开始构建神经网络的详细步骤](https://zhihu.com/question/xxx/answer/xxx)
-- [深度学习在工业界的实际应用案例分析](https://zhihu.com/question/xxx/answer/xxx)
+- [AI大牛谈人工智能发展的现状与未来](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [从零开始构建神经网络的详细步骤](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
+- [深度学习在工业界的实际应用案例分析](https://www.zhihu.com/people/qin-zheng-kai-89/posts)
 
 ### 计算机科学话题
 
@@ -245,6 +245,3 @@
 **相关链接：**
 - [CSDN博客推荐](./csdn.md)
 - [微信公众号](./wechat.md)
-
-*最后更新：2024年12月*  
-*注：以上链接为示例，实际使用时请替换为真实的知乎链接*

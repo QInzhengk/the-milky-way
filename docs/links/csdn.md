@@ -11,9 +11,9 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 - 历年竞赛真题解析
 
 **推荐文章：**
-- [2023年国赛A题完整解答](https://blog.csdn.net/xxx)
-- [数学建模常用算法总结](https://blog.csdn.net/xxx)
-- [MATLAB在数学建模中的应用技巧](https://blog.csdn.net/xxx)
+- [2023年国赛A题完整解答](https://blog.csdn.net/qq_45832050?type=blog)
+- [数学建模常用算法总结](https://blog.csdn.net/qq_45832050?type=blog)
+- [MATLAB在数学建模中的应用技巧](https://blog.csdn.net/qq_45832050?type=blog)
 
 ### 2. 建模小王子
 **博客特色：**
@@ -22,9 +22,9 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 - 完整的项目代码分享
 
 **推荐文章：**
-- [数学建模从入门到精通系列教程](https://blog.csdn.net/xxx)
-- [LINGO优化软件使用指南](https://blog.csdn.net/xxx)
-- [数学建模论文写作技巧](https://blog.csdn.net/xxx)
+- [数学建模从入门到精通系列教程](https://blog.csdn.net/qq_45832050?type=blog)
+- [LINGO优化软件使用指南](https://blog.csdn.net/qq_45832050?type=blog)
+- [数学建模论文写作技巧](https://blog.csdn.net/qq_45832050?type=blog)
 
 ## 人工智能类博主
 
@@ -35,9 +35,9 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 - 最新AI论文解读
 
 **推荐文章：**
-- [Transformer模型完全解析](https://blog.csdn.net/xxx)
-- [PyTorch实战：图像分类项目](https://blog.csdn.net/xxx)
-- [机器学习面试题大全](https://blog.csdn.net/xxx)
+- [Transformer模型完全解析](https://blog.csdn.net/qq_45832050?type=blog)
+- [PyTorch实战：图像分类项目](https://blog.csdn.net/qq_45832050?type=blog)
+- [机器学习面试题大全](https://blog.csdn.net/qq_45832050?type=blog)
 
 ### 2. 深度学习实践者
 **博客特色：**
@@ -46,9 +46,9 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 - 项目经验分享
 
 **推荐文章：**
-- [手把手实现YOLO目标检测](https://blog.csdn.net/xxx)
-- [NLP实战：文本分类项目](https://blog.csdn.net/xxx)
-- [强化学习入门与实践](https://blog.csdn.net/xxx)
+- [手把手实现YOLO目标检测](https://blog.csdn.net/qq_45832050?type=blog)
+- [NLP实战：文本分类项目](https://blog.csdn.net/qq_45832050?type=blog)
+- [强化学习入门与实践](https://blog.csdn.net/qq_45832050?type=blog)
 
 ## 计算机科学类博主
 
@@ -59,9 +59,9 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 - 面试算法总结
 
 **推荐文章：**
-- [数据结构与算法完整教程](https://blog.csdn.net/xxx)
-- [动态规划经典题目解析](https://blog.csdn.net/xxx)
-- [算法复杂度分析指南](https://blog.csdn.net/xxx)
+- [数据结构与算法完整教程](https://blog.csdn.net/qq_45832050?type=blog)
+- [动态规划经典题目解析](https://blog.csdn.net/qq_45832050?type=blog)
+- [算法复杂度分析指南](https://blog.csdn.net/qq_45832050?type=blog)
 
 ### 2. Python编程专家
 **博客特色：**
@@ -70,9 +70,9 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 - 开源项目推荐
 
 **推荐文章：**
-- [Python高级编程技巧](https://blog.csdn.net/xxx)
-- [数据分析实战案例](https://blog.csdn.net/xxx)
-- [Python爬虫技术详解](https://blog.csdn.net/xxx)
+- [Python高级编程技巧](https://blog.csdn.net/qq_45832050?type=blog)
+- [数据分析实战案例](https://blog.csdn.net/qq_45832050?type=blog)
+- [Python爬虫技术详解](https://blog.csdn.net/qq_45832050?type=blog)
 
 ## 专栏系列推荐
 
@@ -133,19 +133,19 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 ## 学习资源合集
 
 ### 在线课程系列
-- [吴恩达机器学习课程笔记](https://blog.csdn.net/xxx)
-- [深度学习专项课程总结](https://blog.csdn.net/xxx)
-- [数学建模公开课整理](https://blog.csdn.net/xxx)
+- [吴恩达机器学习课程笔记](https://blog.csdn.net/qq_45832050?type=blog)
+- [深度学习专项课程总结](https://blog.csdn.net/qq_45832050?type=blog)
+- [数学建模公开课整理](https://blog.csdn.net/qq_45832050?type=blog)
 
 ### 书籍导读系列
-- [《数学模型》读书笔记](https://blog.csdn.net/xxx)
-- [《机器学习》西瓜书精讲](https://blog.csdn.net/xxx)
-- [《深度学习》花书解析](https://blog.csdn.net/xxx)
+- [《数学模型》读书笔记](https://blog.csdn.net/qq_45832050?type=blog)
+- [《机器学习》西瓜书精讲](https://blog.csdn.net/qq_45832050?type=blog)
+- [《深度学习》花书解析](https://blog.csdn.net/qq_45832050?type=blog)
 
 ### 工具教程系列
-- [MATLAB完整教程](https://blog.csdn.net/xxx)
-- [Python科学计算指南](https://blog.csdn.net/xxx)
-- [LaTeX排版教程](https://blog.csdn.net/xxx)
+- [MATLAB完整教程](https://blog.csdn.net/qq_45832050?type=blog)
+- [Python科学计算指南](https://blog.csdn.net/qq_45832050?type=blog)
+- [LaTeX排版教程](https://blog.csdn.net/qq_45832050?type=blog)
 
 ## 使用建议
 
@@ -198,6 +198,3 @@ CSDN是中国最大的IT技术社区，汇集了大量优质的数学建模、�
 **相关链接：**
 - [知乎精选](./zhihu.md)
 - [微信公众号](./wechat.md)
-
-*最后更新：2024年12月*  
-*注：以上链接为示例，实际使用时请替换为真实的CSDN博客链接*

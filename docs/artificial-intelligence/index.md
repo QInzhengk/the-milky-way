@@ -67,11 +67,19 @@
 ### 🏠 本地大模型部署
 - [Ollama本地大模型部署详解](./large-models/Ollama详解，无网环境导入运行本地下载的大模型，无网环境pycharm插件大模型调用、Ollama Python api、coze-studio.md)
 
+### 📄 OCR与文档解析
+- [MinerU PDF解析工具完整指南](./large-models/MinerU PDF解析工具：从安装配置到本地部署与API调用的全流程指南.md)
+- [PaddleOCR全版本完整指南](./large-models/PaddleOCR全版本完整指南：从入门到精通，全面解析安装部署与高级应用.md)
+- [PaddleOCR-VL高性能VLM配置指南](./large-models/Windows Docker部署PaddleOCR-VL：基于Blackwell架构GPU与vLLM的高性能VLM配置指南.md)
+
 ### 🤖 智能体应用
 - [大模型微信公众号、QQ频道接入](./large-models/大模型接入微信公众号、QQ频道_群_个人 自动回复（专业领域），智能体（扣子，腾讯元器_QQ开放平台）.md)
 
 ### 📚 框架生态
 - [Transformers库与Datasets详解](./large-models/Transformer；Hugging Face之transformers库、datasets库详解；Modelscope.md)
+
+### 🧠 大模型核心技术
+- [大模型技术全景与核心概念](./large-models/大模型技术全景与核心概念解析：从基础原理到AI智能体架构.md)
 
 ## �️ 技术特色
 

@@ -19,9 +19,9 @@
 - 📝 **论文写作**：学术论文写作技巧
 
 **精选文章：**
-- 《2024年数学建模竞赛备赛完全指南》
-- 《MATLAB在数学建模中的20个高级技巧》
-- 《数学建模论文结构优化与排版指南》
+- [《2024年数学建模竞赛备赛完全指南》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
+- [《MATLAB在数学建模中的20个高级技巧》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
+- [《数学建模论文结构优化与排版指南》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
 
 ### 2. 数学之美
 **公众号ID：** MathBeauty
@@ -68,9 +68,9 @@
 - 🚀 **行业动态**：AI产业最新趋势
 
 **精选文章：**
-- 《Transformer架构完全解析：从原理到实践》
-- 《PyTorch实战：构建高性能图像分类系统》
-- 《大模型微调技术详解与实践指南》
+- [《Transformer架构完全解析：从原理到实践》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
+- [《PyTorch实战：构建高性能图像分类系统》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
+- [《大模型微调技术详解与实践指南》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
 
 ### 2. 机器学习实践
 **公众号ID：** MLPractice
@@ -117,9 +117,9 @@
 - 🏆 **竞赛指南**：算法竞赛经验分享
 
 **精选文章：**
-- 《动态规划问题的系统性解决方法》
-- 《树和图算法的工程应用实践》
-- 《高级数据结构：从红黑树到B+树》
+- [《动态规划问题的系统性解决方法》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
+- [《树和图算法的工程应用实践》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
+- [《高级数据结构：从红黑树到B+树》](https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg)
 
 ### 2. Python技术圈
 **公众号ID：** PythonTech
@@ -268,6 +268,3 @@
 **相关链接：**
 - [CSDN博客推荐](./csdn.md)
 - [知乎精选](./zhihu.md)
-
-*最后更新：2024年12月*  
-*注：以上公众号ID为示例，实际使用时请替换为真实的微信公众号信息*

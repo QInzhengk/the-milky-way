@@ -97,6 +97,7 @@ export default defineConfig({
             {
               text: '🧠 机器学习算法',
               items: [
+                { text: '风电光伏功率预测竞赛精华总结', link: '/artificial-intelligence/machine-learning/风电光伏功率预测竞赛精华总结：技术解析与实战经验.md' },
                 { text: '🎯 超参数调优：网格搜索与贝叶斯优化', link: '/artificial-intelligence/machine-learning/超参数调优：网格搜索，贝叶斯优化（optuna）详解.md' },
                 { text: '📊 NGBoost概率预测与分位数回归', link: '/artificial-intelligence/machine-learning/概率预测之NGBoost（Natural Gradient Boosting）回归和分位数（Quantile Regression）回归.md' },
                 { text: '📈 图像数据处理技术', link: '/artificial-intelligence/machine-learning/机器学习笔试面试之图像数据不足时的处理方法、检验方法、不均衡样本集的重采样、数据集分布是否一致.md' },
@@ -142,9 +143,13 @@ export default defineConfig({
             {
               text: '大模型',
               items: [
+                { text: '大模型技术全景与核心概念解析', link: '/artificial-intelligence/large-models/大模型技术全景与核心概念解析：从基础原理到AI智能体架构.md' },
                 { text: 'Ollama本地大模型部署', link: '/artificial-intelligence/large-models/Ollama详解，无网环境导入运行本地下载的大模型，无网环境pycharm插件大模型调用、Ollama Python api、coze-studio.md' },
                 { text: '大模型微信公众号接入', link: '/artificial-intelligence/large-models/大模型接入微信公众号、QQ频道_群_个人 自动回复（专业领域），智能体（扣子，腾讯元器_QQ开放平台）.md' },
-                { text: 'Transformers库详解', link: '/artificial-intelligence/large-models/Transformer；Hugging Face之transformers库、datasets库详解；Modelscope.md' }
+                { text: 'Transformers库详解', link: '/artificial-intelligence/large-models/Transformer；Hugging Face之transformers库、datasets库详解；Modelscope.md' },
+                { text: 'MinerU PDF解析工具', link: '/artificial-intelligence/large-models/MinerU PDF解析工具：从安装配置到本地部署与API调用的全流程指南.md' },
+                { text: 'PaddleOCR全版本完整指南', link: '/artificial-intelligence/large-models/PaddleOCR全版本完整指南：从入门到精通，全面解析安装部署与高级应用.md' },
+                { text: 'PaddleOCR-VL高性能部署', link: '/artificial-intelligence/large-models/Windows Docker部署PaddleOCR-VL：基于Blackwell架构GPU与vLLM的高性能VLM配置指南.md' }
               ]
             }
           ]
