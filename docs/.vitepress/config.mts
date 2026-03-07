@@ -81,6 +81,12 @@ export default defineConfig({
               ]
             }
           ]
+        },
+        {
+          text: '📚 优化算法实战',
+          items: [
+            { text: '🎯 APS系统与OR-Tools完全指南', link: '/mathematical-modeling/APS系统与OR-Tools完全指南：智能排产与优化算法实战解析.md' }
+          ]
         }
       ],
       '/artificial-intelligence/': [
@@ -222,11 +228,10 @@ export default defineConfig({
       ],
       '/links/': [
         {
-          text: '相关链接',
+          text: '📚 学习资源',
           items: [
-            { text: 'CSDN博客推荐', link: '/links/csdn.md' },
-            { text: '知乎精选', link: '/links/zhihu.md' },
-            { text: '微信公众号', link: '/links/wechat.md' },
+            { text: '🌟 数学建模与AI学习资源全景整理', link: '/links/数学建模与AI学习资源全景整理：从竞赛真题、经典教材到机器学习、深度学习与大模型实战.md' },
+            { text: '🚀 AI时代：从编程到价值创造', link: '/links/AI时代：从编程到价值创造——人人必须学会与AI共舞.md' }
           ]
         }
       ]
