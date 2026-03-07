@@ -52,18 +52,11 @@ export default defineConfig({
           { text: '🌟 大模型', link: '/artificial-intelligence/large-models/' }
         ]
       },
-      { text: '💻 计算机科学', 
+      { text: '💻 计算机科学',
         items: [
           { text: '📚 编程技术', link: '/computer-science/programming/' },
           { text: '🔍 算法', link: '/computer-science/algorithms/' },
           { text: '📊 数据结构', link: '/computer-science/data-structures/' }
-        ]
-      },
-      { text: '🔗 相关链接', 
-        items: [
-          { text: '💻 CSDN', link: 'https://blog.csdn.net/qq_45832050?type=blog' },
-          { text: '📱 知乎', link: 'https://www.zhihu.com/signin?next=%2F' },
-          { text: '📢 微信公众号', link: 'https://mp.weixin.qq.com/s/pTar--ikPGql7HINNycCRg' }
         ]
       }
     ],
@@ -245,7 +238,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025 数学建模与人工智能'
+      copyright: 'Copyright © 2026 数学建模与人工智能'
     },
 
     search: {

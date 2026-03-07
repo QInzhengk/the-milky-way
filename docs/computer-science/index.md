@@ -116,6 +116,11 @@
 
 ### 🤖 机器学习工程
 
+#### 🛠️ 开发工具与包管理
+- [uv完全指南：从入门到精通的Python项目与依赖管理实战](./programming/uv完全指南：从入门到精通的Python项目与依赖管理实战.md)
+  - **核心功能**：极速包管理、虚拟环境、项目依赖管理
+  - **替代方案**：pip、poetry、venv的一体化解决方案
+
 #### 🏗️ 深度学习框架
 - [TensorFlow与PyTorch环境配置](./programming/Keras和Tensorflow（CPU）安装、Pytorch（CPU和GPU）安装以及jupyter使用虚拟环境.md)
 - [神经网络实战(Keras/PyTorch)](./programming/Keras搭建神经网络、Pytorch搭建神经网络和Sklearn的MLPRegressor.md)
